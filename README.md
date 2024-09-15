@@ -2,7 +2,14 @@
 Disciplina Experiência criativa: navegando na computação 
 Ciência da computação PUCPR - 1° período
 
-Este projeto consiste na criação de um site simples que explora características turísticas, econômicas, curiosidades e gastronomia da cidade paranaese Agudos do Sul. O site possui uma página inicial, configurações e suporte ao usuário.
+Este projeto em grupo consiste na criação de um site simples que explora características turísticas, econômicas, curiosidades e gastronomia da cidade paranaese Agudos do Sul. O site possui uma página inicial, configurações e suporte ao usuário.
+
+**Estudantes:**  
+Ayumi Sato  
+Daniela Yuki  
+Jorge Jordão  
+Leticia Garsztka  
+Maria Fernanda Cordeiro
 
 
 ## 💻 **Tecnologias Utilizadas**
