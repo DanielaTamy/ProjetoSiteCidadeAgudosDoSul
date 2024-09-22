@@ -35,11 +35,8 @@ Maria Fernanda Cordeiro
 
 1. **Frontend**
    - Página **HTML** com cabeçalho, corpo e rodapé.
-   - Estilização com **CSS** para organizar o layout e dar um visual atraente.
-   - **JavaScript** para validação de formulários e interatividade do usuário.
-
-2. **Backend**
-   - **PHP** para lidar com requisições do cliente e manipular dados.
+   - Estilização com **CSS** 
+   - **JavaScript** 
 
 
 ## ⚙️ **Configuração do Ambiente de Desenvolvimento**
