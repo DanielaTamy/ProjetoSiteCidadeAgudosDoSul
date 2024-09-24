@@ -34,7 +34,6 @@ Maria Fernanda Cordeiro
 1. **Frontend**
    - Página **HTML** com cabeçalho, corpo e rodapé.
    - Estilização com **CSS** 
-   - **JavaScript** 
 
 
 ## ⚙️ **Configuração do Ambiente de Desenvolvimento**
