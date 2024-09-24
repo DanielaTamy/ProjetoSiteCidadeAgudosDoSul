@@ -18,11 +18,9 @@ Maria Fernanda Cordeiro
 
 - **HTML:** Estrutura da página 🌐
 - **CSS:** Estilos e design 📐🎨
-- **JavaScript:** Lógica da interação do usuário e validação de dados 🧠
 
 ### **Servidor (Backend)**
 
-- **PHP:** Processamento no servidor ⚙️
 - **XAMPP:** Pacote que inclui Apache (servidor web) 
 
 ## 🚀 **Funcionalidades do Site**
