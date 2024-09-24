@@ -48,5 +48,5 @@ Maria Fernanda Cordeiro
 
 1. **Clone o repositório:**
 
-Inicie o servidor Apache e o MySQL no XAMPP.
+Inicie o servidor Apache XAMPP.
 Acesse o site no navegador
